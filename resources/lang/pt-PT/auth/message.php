@@ -33,7 +33,7 @@ return array(
 
     'forgot-password' => array(
         'error'   => 'Ocorreu um problema a tentar obter um código para restauro da password. Por favor, tente novamente.',
-        'success' => 'Se esse endereço de e-mail existir no nosso sistema, um e-mail de recuperação de senha foi enviado.',
+        'success' => 'Se esse endereço de e-mail existir no nosso sistema, um e-mail de recuperação de palavra-passe foi enviado.',
     ),
 
     'forgot-password-confirm' => array(

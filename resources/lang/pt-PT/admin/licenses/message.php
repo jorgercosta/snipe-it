@@ -4,10 +4,10 @@ return array(
 
     'does_not_exist' => 'A Licença não existe.',
     'user_does_not_exist' => 'Utilizador não existe.',
-    'asset_does_not_exist' 	=> 'O artigo que está a tentar associar com esta licença não existe.',
+    'asset_does_not_exist'     => 'O artigo que está a tentar associar com esta licença não existe.',
     'owner_doesnt_match_asset' => 'O proprietário do artigo que está a tentar associar com esta licença não é pessoa selecionada na dropdown.',
-    'assoc_users'	 => 'Esta licença está correntemente alocada a um utilizador e não pode ser removida. Por favor devolva a licença e de seguida tente remover novamente. ',
-    'select_asset_or_person' => 'Você deve selecionar um recurso ou um usuário, mas não ambos.',
+    'assoc_users'     => 'Esta licença está correntemente alocada a um utilizador e não pode ser removida. Por favor devolva a licença e de seguida tente remover novamente. ',
+    'select_asset_or_person' => 'Você deve selecionar um recurso ou um utilizador, mas não ambos.',
     'not_found' => 'License not found',
 
 

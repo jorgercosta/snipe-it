@@ -3,7 +3,7 @@
 return array(
 
     'does_not_exist' => 'Departamento não existe.',
-    'assoc_users'	 => 'Este departamento está atualmente associado a pelo menos um usuário e não pode ser excluído. Atualize seus usuários para não mais fazer referência a este departamento e tente novamente.',
+    'assoc_users'     => 'Este departamento está atualmente associado a pelo menos um utilizador e não pode ser excluído. Atualize seus utilizadores para não mais fazer referência a este departamento e tente novamente.',
     'create' => array(
         'error'   => 'O departamento não foi criado, tente novamente.',
         'success' => 'Departamento criado com sucesso.'
@@ -13,7 +13,7 @@ return array(
         'success' => 'Departamento atualizado com sucesso.'
     ),
     'delete' => array(
-        'confirm'   	=> 'Tem certeza de que deseja excluir este departamento?',
+        'confirm'       => 'Tem certeza de que deseja excluir este departamento?',
         'error'   => 'Houve uma questão de eliminar o departamento. Por favor, tente novamente.',
         'success' => 'O departamento foi excluído com sucesso.'
     )
